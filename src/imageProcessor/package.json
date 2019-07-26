@@ -1,0 +1,8 @@
+{
+  "name": "ImageProcessor",
+  "version": "",
+  "dependencies": {
+    "aws-sdk": "^2.184.0",
+    "sharp": "^0.20.5"
+  }
+}
